@@ -26,7 +26,7 @@ even just copy these special launch options in a static way.
 
 Thus Bethesda Launcher Quake Redirector will do it in a dynamic way. This tool will simply replace
 your original Quake_x64.exe with a custom one, which simply forwards all launch options passed to
-it to the real Quake exe (which we rename to ORIGINAL_Quake_x64.exe). It then allows you to specify
+it to the real Quake EXE (which we rename to ORIGINAL_Quake_x64.exe). It then allows you to specify
 your own launch options in a config file. Then we can simply run Quake from the Bethesda Launcher.
 
 ---------------------------------------------------------------------------------------------------
