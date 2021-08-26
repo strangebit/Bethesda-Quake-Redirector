@@ -45,6 +45,10 @@ setting up the redirector tool to take the place of your original Quake EXE.
 
 Set your own custom launch options by opening up `Quake_x64.launchoptions` with a text editor.  
 The `-skipmovies` launch option is set by default, in order to demonstrate how this works.
+Multiple launch options should be put all on the same line, separated by spaces.
+
+As an example:  
+`Options=-skipmovies +skill 3 +map e1m1`
 
 Then simply run Quake from the Bethesda Launcher as normal.
 
