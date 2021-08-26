@@ -1,4 +1,4 @@
-# Bethesda Launcher Quake Redirector [v1.0.0]
+# Bethesda Launcher Quake Redirector [v1.0.1]
 
 **For the Bethesda Launcher version of Quake Enhanced Re-release (2021) ONLY**
 
