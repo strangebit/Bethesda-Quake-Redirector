@@ -36,7 +36,7 @@ if you installed Quake or the Bethesda Launcher to a different location.
 These files should now exist alongside your original `Quake_x64.exe`:
 * `Quake_x64_Redirector.exe` (the redirector tool itself)
 * `Quake_x64_Redirector.ahk` (the AutoHotkey source code for the redirector tool)
-* `Quake_x64.launchoptions` (edit this with a text editor to specify your own launch options)
+* `Quake_x64.launchoptions` (where you can specify your own launch options)
 * `Quake_x64_Redirector_README.txt` (the README file)
 
 Rename your original `Quake_x64.exe` to `ORIGINAL_Quake_x64.exe`. You must use this exact filename as
